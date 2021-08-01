@@ -1,0 +1,12 @@
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.deps.json
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.dll
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\bin\Debug\net5.0\ref\SortingAlgorithms.dll
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.pdb
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.dll
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
+C:\Users\oh.abdelfattah\source\repos\DataStructure\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb

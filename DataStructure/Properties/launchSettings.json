@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataStructure": {
+      "commandName": "Project",
+      "commandLineArgs": "text=\"Omar Hassan Mohamed Omar\" find=\"Omar\" replace=\"Ahmed\""
+    }
+  }
+}
